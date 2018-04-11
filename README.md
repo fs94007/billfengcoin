@@ -1,7 +1,7 @@
 ## Dependency
 On Ubuntu 16.04, to setup the dependency, you need to run this first:
 ```
-sudo apt-get install build-essential libboost1.58-all-dev
+sudo apt-get install build-essential git cmake libboost1.58-all-dev
 ```
 
 
