@@ -1,3 +1,11 @@
+## Dependency
+On Ubuntu 16.04, to setup the dependency, you need to run this first:
+```
+sudo apt-get install build-essential libboost1.58-all-dev
+```
+
+
+## Others
 This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
 
 * Launch your own CryptoNote currency: [CryptoNote Starter](https://cryptonotestarter.org/)
@@ -110,7 +118,7 @@ const int P2P_DEFAULT_PORT = 17236;
 const int RPC_DEFAULT_PORT = 18236;
 ```
 
-
+. 
 **2. Network identifier** (src/P2p/P2pNetworks.h)
 
 This identifier is used in network packages in order not to mix two different cryptocoin networks. Change all the bytes to random values for your network:
