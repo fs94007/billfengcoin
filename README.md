@@ -1,3 +1,6 @@
+## Suggestion
+A SSD and a good CPU may be needed to save time, or a whole day may be used.
+
 ## Dependency
 On Ubuntu 16.04, to setup the dependency, you need to run this first:
 ```
